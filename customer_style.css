@@ -1,0 +1,42 @@
+/* KPI css  customer */
+
+.st-emotion-cache-zvqkad {
+    width: 224px;
+    position: relative;
+    border: 2px solid gray;
+}
+
+.st-emotion-cache-q49buc {
+    font-size: 14px;
+    color: rgb(250, 250, 250);
+    height: auto;
+    min-height: 1.5rem;
+    vertical-align: middle;
+    flex-direction: row;
+    -webkit-box-align: center;
+    align-items: center;
+    margin-bottom: 0px;
+    display: grid;
+    grid-template-columns: auto 1fr;
+    visibility: visible;
+    border: 2px solid gray;
+    padding: 10px;
+}
+
+.st-emotion-cache-1r6slb0 {
+    width: calc(33.3333% - 1rem);
+    flex: 1 1 calc(33.3333% - 1rem);
+    border: 2px solid gray;
+}
+
+
+.column {
+    border: 1px solid lightgrey;
+    padding: 10px;
+}
+
+.markdown-cell {
+    border: 1px solid lightgrey;
+    padding: 10px;
+    margin-bottom: 10px;
+}
